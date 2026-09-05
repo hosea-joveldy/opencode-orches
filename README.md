@@ -1,4 +1,4 @@
-# opencode-multi-agent-setup
+# opencode-orches
 
 A 5-agent [opencode](https://opencode.ai) config: orchestrator, planner, designer, coder, QA — each with its own model and locked-down permissions, so only `@coder` touches code/git and only `@qa` can call something done.
 
